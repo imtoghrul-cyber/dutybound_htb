@@ -2,7 +2,7 @@
 
 Supporting scripts for my write-up on **DutyBound**, a Medium-difficulty Linux box from HackTheBox Season 12.
 
-📄 Full write-up: **[link to your Medium article]**
+📄 Full write-up: **https://medium.com/@imtoghru.l/dutybound-hackthebox-season-12-write-up-dc1b2a03fee7**
 
 These scripts automate two specific steps of the attack chain:
 
